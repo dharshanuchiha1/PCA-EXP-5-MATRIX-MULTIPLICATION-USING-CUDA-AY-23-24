@@ -170,9 +170,9 @@ int main()
 ```
 
 ## OUTPUT:
-```
+
 <img width="387" height="367" alt="Screenshot 2026-11-23 204601" src="https://github.com/user-attachments/assets/c231aa23-841c-4234-989b-933e1b9d556c" />
 
-```
+
 ## RESULT:
 Thus the program has been executed by using CUDA to mulptiply two matrices. It is observed that there are variations in host and device elapsed time. Device took 0.000000 seconds time and host took 0.120352 milliseconds time.
